@@ -1,1 +1,2 @@
 oi estou testando o git
+python e uma liguagem legal pra se aprender
